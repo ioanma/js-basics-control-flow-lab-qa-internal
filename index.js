@@ -1,4 +1,6 @@
 // Write your code in this file!
-function scuberGreetingForFeet() {
-  
+function scuberGreetingForFeet(ride) {
+  if (ride <= 400) {
+    return ''
+  }
 }
