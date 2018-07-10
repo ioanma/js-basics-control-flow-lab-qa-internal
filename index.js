@@ -24,5 +24,7 @@ function switchOnCharmFromTip(tip) {
   if (tip == 'generous') {
     
   }
-}
+  if (tip == 'generous') {
+    
+  }
 }
